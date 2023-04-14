@@ -27,15 +27,15 @@ And the performance of the final model:
 
 ## Project Folder Structure:
 
-    Digit_Seq_Recognition_POC
-    ├─ font
-    ├─ img
-    │   ├─ single_digit
-    │   ├─ five_digits
-    │   └─ 12_digits
-    ├─ Model
-    │   ├─ pretrained_CNN
-    │   └─ CRNN
+    Digit_Seq_Recognition_POC/
+    ├─ font/
+    ├─ img/
+    │   ├─ single_digit/
+    │   ├─ five_digits/
+    │   └─ 12_digits/
+    ├─ Model/
+    │   ├─ pretrained_CNN/
+    │   └─ CRNN/
     ├─ 1_Gen_Images.ipynb
     ├─ 2_Pretrain_CNN.ipynb
     ├─ 3_CRNN.ipynb
